@@ -12,7 +12,7 @@ a = b = c = "cat"
 
 # ================================
 
-# reuse varible name the last assigment is printed 
+# reuse variable name the last assigment is printed 
 colour = "red"
 colour = "blue"
 #print (colour)
